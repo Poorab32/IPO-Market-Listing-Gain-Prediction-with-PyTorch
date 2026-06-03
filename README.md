@@ -17,5 +17,5 @@ A Deep Learning-based predictive system designed to forecast listing gains for I
 ## 📊 Performance
 Achieved an $R^2$ Score of 0.6961 and a Mean Absolute Error (MAE) of 11.41, demonstrating strong predictive reliability in forecasting Indian IPO listing gains compared to baseline models.
 ## 📊 Model Analytics
-![Performance Metrics](C:\Users\verma\OneDrive\Pictures\Screenshots 1)
-*Visual proof of the Actual vs. Predicted values and Feature Correlation Heatmap.*
+![Actual vs Predicted](./Screenshots/ModelTest.png)
+![Correlation Heatmap](./Screenshots/FeatureCorrelationHeatmap.png)
